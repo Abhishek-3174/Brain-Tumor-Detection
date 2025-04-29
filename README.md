@@ -1,4 +1,4 @@
-Brain Tumor Detection and Segmentation
+##Brain Tumor Detection and Segmentation
 Project Overview
 This project implements a two-stage system for brain tumor detection and segmentation using:
 
