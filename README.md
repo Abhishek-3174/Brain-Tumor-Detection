@@ -1,4 +1,4 @@
-—Brain tumor detection and segmentation are critical
+Brain tumor detection and segmentation are critical
 tasks in medical imaging that directly impact clinical decisionmaking and treatment outcomes. Traditional machine learning
 and CNN-based models have seen considerable success but still
 face challenges such as capturing complex high-dimensional
