@@ -53,18 +53,6 @@ Model: 3D U-Net with enhancements.
 
 Output: Segmentation mask highlighting tumor regions.
 
-Project Structure
-brain-tumor-detection/
-│
-├── data/                # Dataset preparation scripts
-├── models/              # Saved models (QCNN, U-Net)
-├── notebooks/           # Jupyter/Colab notebooks for training
-├── app/                 # Streamlit web app
-├── utils/               # Utility functions (preprocessing, metrics)
-├── outputs/             # Prediction outputs (images/masks)
-├── README.md            # Project documentation
-├── requirements.txt     # Python dependencies
-└── LICENSE
 Setup Instructions
 Clone the repository:
 
